@@ -1,6 +1,6 @@
 # React SheetJS Example
 
-Example using SheetJS on React
+Example of how to use SheetJS on React
 
 ![](img/html-table.png)
 
